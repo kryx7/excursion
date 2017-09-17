@@ -1,0 +1,18 @@
+html {
+  font-family: verdana;
+  background-color: black;
+  }
+#download {
+  color:aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  color: white;
+  font-weight:normal;
+  text-align: center;
+  }
+#video {
+  text-align:center;
+}
